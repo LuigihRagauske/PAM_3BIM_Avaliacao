@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AppLibertadoresHAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\views\\usuarios\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\views\\usuarios\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\applibertadoreshas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\applibertadoreshas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:30:09.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:11:31.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeToolTip": "AppLibertadoresHAS\\Views\\Usuarios\\LoginView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-14T11:09:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Services\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\Services\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:30:45.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:41:11.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\App.xaml.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\App.xaml.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:25:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\App.xaml",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\App.xaml",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\App.xaml",
+              "RelativeToolTip": "AppLibertadoresHAS\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-14T11:25:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppLibertadoresHAS",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\AppLibertadoresHAS.csproj",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\AppLibertadoresHAS.csproj",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\AppLibertadoresHAS.csproj",
+              "RelativeToolTip": "AppLibertadoresHAS\\AppLibertadoresHAS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T11:08:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:43:36.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
