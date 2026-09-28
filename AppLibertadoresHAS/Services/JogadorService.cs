@@ -10,10 +10,12 @@ namespace AppLibertadoresHAS.Services
     {
         private readonly Request _request;
         private const string _apiUrlBase = "https://apilibertadores-luiz-hzhucrffc5b2hqa2.mexicocentral-01.azurewebsites.net/Jogadores";
-
+        private string token;
         public JogadorService()
         {
             _request = new Request();
+
+            token = Preferences.Get("UsuarioToken", string.Empty);
         }
 
         public async Task<ObservableCollection<Jogador>> GetJogadoresAsync()
@@ -21,7 +23,7 @@ namespace AppLibertadoresHAS.Services
             string urlComplementar = string.Format("{0}", "/GetAll");
 
             ObservableCollection<Jogador> lista =
-                await _request.GetAsync<ObservableCollection<Jogador>>(_apiUrlBase + urlComplementar, string.Empty);
+                await _request.GetAsync<ObservableCollection<Jogador>>(_apiUrlBase + urlComplementar, token);
 
             return lista;
         }
@@ -30,14 +32,15 @@ namespace AppLibertadoresHAS.Services
         {
             string urlComplementar = $"/{id}";
 
-            Jogador jogador = await _request.GetAsync<Jogador>(_apiUrlBase + urlComplementar, string.Empty);
+            Jogador jogador = await _request.GetAsync<Jogador>(_apiUrlBase + urlComplementar, token);
 
             return jogador;
         }
 
         public async Task<Jogador> PostJogadorAsync(Jogador j)
         {
-            int id = await _request.PostReturnIntAsync<Jogador>(_apiUrlBase, j, string.Empty);
+            
+            int id = await _request.PostReturnIntAsync<Jogador>(_apiUrlBase, j, token);
             j.Id = id;
             return j;
         }
