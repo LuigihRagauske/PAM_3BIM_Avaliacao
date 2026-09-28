@@ -77,6 +77,26 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[D:/AppLibertadoresHAS/AppLibertadoresHAS/Views/Partidas/TabelaView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppLibertadoresHAS.Views.Partidas.TabelaView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Partidas\TabelaView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Partidas\TabelaView.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[D:/AppLibertadoresHAS/AppLibertadoresHAS/Views/Usuarios/CadastroView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppLibertadoresHAS.Views.Usuarios.CadastroView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\CadastroView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\CadastroView.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [D:/AppLibertadoresHAS/AppLibertadoresHAS/Views/Usuarios/LoginView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLibertadoresHAS.Views.Usuarios.LoginView.xaml

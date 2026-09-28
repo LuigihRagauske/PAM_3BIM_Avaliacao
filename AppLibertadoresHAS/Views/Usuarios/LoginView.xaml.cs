@@ -1,14 +1,13 @@
-using AppLibertadoresHAS.ViewModels.Usuarios;
+using AppLibertadoresHAS.ViewModels;
+
 namespace AppLibertadoresHAS.Views.Usuarios;
-
-
 
 public partial class LoginView : ContentPage
 {
 	UsuarioViewModel usuarioViewModel;
 	public LoginView()
 	{
-//		InitializeComponent();
+		InitializeComponent();
 
 		usuarioViewModel = new UsuarioViewModel();
 		BindingContext = usuarioViewModel;
